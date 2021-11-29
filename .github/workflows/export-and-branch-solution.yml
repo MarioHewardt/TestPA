@@ -27,7 +27,7 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: https://web.powerapps.com
-  USERNAME: marioh
+  USERNAME: marioh@microsoft.com
 
 
 jobs:
